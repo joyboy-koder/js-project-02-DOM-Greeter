@@ -30,4 +30,4 @@ It also marks my transition from using browser pop-ups to building dynamic page 
 ---
 
 ## 🌐 Live Demo
-> Add your live demo link here (e.g., GitHub Pages)
+> https://joyboy-koder.github.io/js-project-02-DOM-Greeter/
